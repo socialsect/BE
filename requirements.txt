@@ -5,3 +5,4 @@ pillow
 numpy
 python-multipart
 ultralytics
+seaborn
